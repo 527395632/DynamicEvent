@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ConsoleApp1/.vs/ConsoleApp1/v16
+/ConsoleApp1/ConsoleApp1/bin/Debug
+/ConsoleApp1/ConsoleApp1/obj
+/ConsoleApp1/packages/Newtonsoft.Json.13.0.1
